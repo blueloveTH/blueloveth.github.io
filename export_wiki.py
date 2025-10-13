@@ -20,3 +20,4 @@ if response.status_code == 200:
     print("所有文件已成功写入。")
 else:
     print(f"请求失败，状态码：{response.status_code}")
+    exit(1)
