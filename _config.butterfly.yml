@@ -294,7 +294,7 @@ aside:
       link: https://github.com/blueloveTH
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: 博客正在建设中
   card_recent_post:
     enable: true
     # If set 0 will show all
